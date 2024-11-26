@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/ccsa-ufrn/sigeva#readme",
   "dependencies": {
-    "async": "^2.5.0",
+    "async": "^3.2.2",
     "bcrypt": "^4.0.0",
     "body-parser": "^1.19.0",
     "bootstrap": "^3.4.1",
